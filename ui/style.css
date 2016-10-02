@@ -13,11 +13,18 @@ body {
     
     border:1px solid red;
     border-radius:100%;
+    width:45%;
+    float:left;
 }
 .header
 {
     
     border:1px solid red;
 }
-
+.header-text
+{
+   width:55;
+   
+    
+}
 
