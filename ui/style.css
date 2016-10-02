@@ -9,6 +9,10 @@ body {
     background-color: lightgrey;
   
 }
+.head-img{
+    
+    border-radius:100%;
+}
 .header
 {
     border:1px solid red;
