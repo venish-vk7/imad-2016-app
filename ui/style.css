@@ -16,6 +16,7 @@ body {
 }
 .header
 {
+    float:center;
     border:1px solid red;
 }
 
