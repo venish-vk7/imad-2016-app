@@ -12,6 +12,10 @@ body {
   height:60px;
   background-color:black;
 }
+.head_img{
+    float:left;
+    width:200px;
+}
 .head_nav{
     list-style:none;
 }
