@@ -12,17 +12,14 @@ body {
 {
     border:1px solid green;   
     height:300px;
+    backgroud-color:#1ea4e7;
     
 }
 .nav{
-    margin-top:10px;
-    width:300px;
-    float:left;
-    border:1px solid green; 
+  
 }
 .section{
-    float:left;
-    width:700px;
+   
 }
 .contents{
     
