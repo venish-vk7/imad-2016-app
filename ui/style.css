@@ -21,9 +21,10 @@ body {
     border:1px solid green; 
 }
 .section{
-    
+    float:left;
+    width:700px;
 }
-.content{
+.contents{
     
 }
 .footer{
