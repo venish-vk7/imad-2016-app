@@ -16,7 +16,9 @@ body {
 }
 .nav{
     margin-top:10px;
-   border:1px solid green; 
+    width:300px;
+    float:left;
+    border:1px solid green; 
 }
 .section{
     
