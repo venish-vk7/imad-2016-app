@@ -10,12 +10,12 @@ body {
 }
 .header
 {
-    border:1px solid #1ea4e7;   
+    border:1px solid green;   
     height:300px;
     
 }
 .nav{
-    
+   border:1px solid green; 
 }
 .section{
     
