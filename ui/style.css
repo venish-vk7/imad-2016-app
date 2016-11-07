@@ -10,15 +10,15 @@ body {
 }
 .header
 {
-  height:50px;
+  height:80px;
   background-color:black;
 }
 .nav{
-  margin-top:10px;
+  margin-top:30px;
   border:3px solid #009688 ;
 }
 .section{
-    margin-top:10px;
+    margin-top:30px;
     border:1px solid #009688;   
     height:300px;
     background-color:#009688;
