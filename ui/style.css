@@ -39,6 +39,9 @@ body {
     height:300px;
     background-color:#009688;
 }
+.section_img{
+    border-radius:100px;   
+}
 .contents{
     
 }
