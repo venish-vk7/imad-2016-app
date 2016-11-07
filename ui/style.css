@@ -18,9 +18,11 @@ body {
 }
 .head_nav{
     list-style:none;
+    color:white;
 }
 .head_nav li{
     display:inline;
+    margin-left:50px;
     padding:30px;
 }
 .head_nav li a{
