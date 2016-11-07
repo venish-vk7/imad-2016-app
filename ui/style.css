@@ -18,13 +18,12 @@ body {
 }
 .head_nav{
     list-style:none;
-    
+    font-color:white;
+    margin-top:20px;
 }
 .head_nav li{
     display:inline;
     margin-left:50px;
-    margin-top:5px;
-    color:white;
     padding:30px;
 }
 .head_nav li a{
