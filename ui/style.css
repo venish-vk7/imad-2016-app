@@ -22,8 +22,7 @@ body {
 .head_nav li{
     display:inline;
     margin-left:50px;
-    margin-top:50px;
-    padding:30px;
+    padding:20px;
 }
 .head_nav li a{
     text-decoration:none;
