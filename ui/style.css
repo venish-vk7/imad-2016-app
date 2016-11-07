@@ -22,11 +22,12 @@ body {
 .head_nav li{
     display:inline;
     margin-left:50px;
-    padding:20px;
+    padding:15px;
 }
 .head_nav li a{
     text-decoration:none;
     color:white;
+    font-weight:bold;
 }
 .nav{
   margin-top:30px;
