@@ -32,9 +32,11 @@ body {
     font-weight:bold;
 }
 .social{
-    
     color:white;
     font-size:24px;
+}
+.social li{
+    padding:10px;
 }
 .nav{
   margin-top:30px;
