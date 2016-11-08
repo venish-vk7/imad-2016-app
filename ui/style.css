@@ -38,11 +38,11 @@ body {
 .social i{
     padding-left:20px;
 }
-.social i a{
-    color:red;
+.social a{
+    color:white;
 }
-.social i a:hover{
-    color:blue;
+.social a:hover{
+    color:#009688;
 }
 .nav{
   margin-top:30px;
