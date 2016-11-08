@@ -17,7 +17,9 @@ body {
     width:200px;
 }
 .head_nav{
+    width:500px;
     list-style:none;
+    float:left;
 }
 .head_nav li{
     display:inline;
@@ -28,6 +30,10 @@ body {
     text-decoration:none;
     color:white;
     font-weight:bold;
+}
+.social{
+    color:white;
+    font-size:24px;
 }
 .nav{
   margin-top:30px;
@@ -42,10 +48,7 @@ body {
     height:300px;
     background-color:#009688;
 }
-.social{
-    color:white;
-    font-size:24px;
-}
+
 .contents{
     
 }
