@@ -31,6 +31,9 @@ body {
     color:white;
     font-weight:bold;
 }
+.head_nav li a:hover{
+    color:#009688;
+}
 .social{
     color:white;
     font-size:24px;
