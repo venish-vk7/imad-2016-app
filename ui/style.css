@@ -67,6 +67,7 @@ body {
     float:left;
 }
 .sec_content{
+    padding-top:30px;
     margin-left:50px;
     text-align:top;
 }
