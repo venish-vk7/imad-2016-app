@@ -55,11 +55,18 @@ body {
     margin-top:30px;
     margin-left:25%;
     margin-right:25%;
-     
     width:50%;
     height:300px;
 }
 
+.sec_img{
+    border-radius:100%;
+    width:180px;
+    height:190px;
+}
+.sec_content{
+    margin-left:20px;
+}
 .contents{
     
 }
