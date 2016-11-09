@@ -57,13 +57,14 @@ body {
     margin-right:25%;
     width:50%;
     height:300px;
-    float:left;
+    
 }
 
 .sec_img{
     border-radius:100%;
     width:180px;
     height:190px;
+    float:left;
 }
 .sec_content{
     margin-left:50px;
