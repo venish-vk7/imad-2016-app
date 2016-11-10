@@ -75,8 +75,9 @@ body {
     
 }
 .footer{
-      border-top:3px solid #009688 ;
+      border-top:5px solid #009688 ;
       height:50px;
+      margin-top:200px;
       background-color:black;
 }
 
